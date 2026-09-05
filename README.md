@@ -6,3 +6,5 @@ Los archivos hasta exte momento son:
 3. Ejercicios extra evaluables semana 1
 4. Ejercicios extra evaluables semana 2
 5. Avance del proyecto.
+6. Actividad semana 4
+7. Ejercicios extra evaluables semana 4 
