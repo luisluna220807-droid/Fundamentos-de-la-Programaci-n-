@@ -1,0 +1,4 @@
+Regla,Descripcion
+01,Priorizar canales Direct-to-Consumer (DTC) y socios de elite.
+02,Ajustar produccion al % de demanda real para evitar sobrantes en Outlets.
+03,Reducir envios a distribuidores mediocres para cuidar la marca.

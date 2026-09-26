@@ -1,0 +1,16 @@
+
+=========================================
+REPORTE NIKE - FECHA DE EMISION: 25/9/2026
+Modelo: Air Jordan 6
+Produccion Objetivo Total: 30000 pares
+Total Distribuido Optimizado: 30000 pares
+--- Desglose por Tallas ---
+Talla 24: 1500 pares (5%)
+Talla 25: 3000 pares (10%)
+Talla 26: 6000 pares (20%)
+Talla 27: 9000 pares (30%)
+Talla 28: 6000 pares (20%)
+Talla 29: 3000 pares (10%)
+Talla 30: 1500 pares (5%)
+Estatus: Distribucion verificada para evitar sobreinventario en Outlets.
+=========================================
